@@ -33,6 +33,8 @@ The biggest issue to the design of the project that made it very non-user-friend
 
 Once you understand the design of the project and find all the necessary information it becomes a lot of fun to click around and learn about each witch. The witches are shown placed around the map by little icons of a person. Each witch icon will be a different color based on the map you are looking at and the legend preferences that you can customize. Each witch has a small pop up biography that will show when you click on their icon. In the small pop up is also an option to click a link leading to more information of the individual on a different website. I enjoyed being able to learn more about each witch but I would suggest not having the link take you to a different site. It just leads to more confusion on how to work a different site which also had a confusing design. 
 
+![Icons on witch Map](https://dianefrola.github.io/diane-frola-cnu/images/witchmapicons.png)
+
 The project does have an about section but it does not provide much information. To get the real information about the project you need to click on the website link in the “background of the project” section in the about section. This link will take you to another website that gives you a bunch of links to different information on the project. There is also a header labeled “blog” that will take you to a blog about the creation of the project.
 
 This project overall is very useful to learn more about the witches of Scotland from 1563-1736. It provides a lot of useful information and data on the subject and individual witches. To someone that studies the topic, it can be a very helpful and informational tool. 
