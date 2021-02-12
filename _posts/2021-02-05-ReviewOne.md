@@ -1,6 +1,6 @@
 # **Review Blog**
 
-[Witch Icon](https://dianefrola.github.io/diane-frola-cnu/images/witch.png)
+![Witch Icon](https://dianefrola.github.io/diane-frola-cnu/images/witch.png)
 
 ### **Project:** 
 Scottish Witches Database
