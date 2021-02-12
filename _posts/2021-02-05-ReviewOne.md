@@ -29,7 +29,7 @@ The design and layout of the project are very confusing at first and takes a whi
 
 The biggest issue to the design of the project that made it very non-user-friendly was the low noticeability of important information. Very important parts of the project such as headings, map legends, and information icons are very hard to see and understand. All of these are in very light grey with white backgrounds and are easy to miss. I would suggest having the headings a lot bolder and in a darker color. I would also suggest already having the map legends and information all ready popped up and not under a different tab as the information provided in both sections are crucial in understanding the project. 
 
-
+![witch header](https://dianefrola.github.io/diane-frola-cnu/images/witchheader.png)
 
 Once you understand the design of the project and find all the necessary information it becomes a lot of fun to click around and learn about each witch. The witches are shown placed around the map by little icons of a person. Each witch icon will be a different color based on the map you are looking at and the legend preferences that you can customize. Each witch has a small pop up biography that will show when you click on their icon. In the small pop up is also an option to click a link leading to more information of the individual on a different website. I enjoyed being able to learn more about each witch but I would suggest not having the link take you to a different site. It just leads to more confusion on how to work a different site which also had a confusing design. 
 
