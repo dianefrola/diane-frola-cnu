@@ -1,4 +1,4 @@
-# TEI Coding Project of "_The Yellow Wallpaper_
+# TEI Coding Project of "_The Yellow Wallpaper_"
 
 For this project, I was assigned to create a code of a few pages from Charlotte Perkins Gilman’s “_The Yellow Wallpaper._” Using the program Oxygen, a helpful XML (eXtensive Markup language) editor, I coded my text into TEI (Text Encoding Initiative). The basis of this project was to help in the process of coding all of Gilman's beautiful and tragic semi-autobiographical story of a woman's mental health journey in the late 1800s. 
 
