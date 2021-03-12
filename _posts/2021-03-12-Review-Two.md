@@ -20,7 +20,7 @@ To look further into the site you need to click on the white box with three grey
 
 The guide menu lets you choose different options to learn more about the history of the lending library with things such as all the old members and books that were in circulation. In both the list there are customizable options to control how the list is sorted or to search for individual things. This was a really nice feature that allowed for a more custom experience. When you hover the mouse over each individual item listed a green text will pop up taking you to more information on the selected item. The green text is a really useful addition as it pops out against the white background. Next to some names or books is also a blue box that means there is no adequate information on the subject. It may be useful to have a description or pop up explaining the blue boxes as you have to go to the frequently asked questions page under the about section to find what it means
 
-![Example of some books listed](https://dianefrola.github.io/diane-frola-cnu/images/tsacp-books.png)
+![Example of some books listed](https://dianefrola.github.io/diane-frola-cnu/images/tsacp-booklist.png)
 
 One of the most simplistic yet helpful things on the website is that each link or clickable options are underlined in green. There are many different links to click taking you to different parts of the site that provide more information on the subject. The addition of this is very helpful as it gives the audience the availability to find all the information they want at ease in the order they want. The choice of underlining all links in green is also very helpful as it is very easily noticeable. 
 
