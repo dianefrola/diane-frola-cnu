@@ -14,7 +14,7 @@ Financial support was primarily from several Princeton institutions such as: The
 
 The site starts off taking you to a nice cover page that directs you to scroll down where you find a small introduction to the project. I would recommend making the arrow indicating to scroll down a little more noticeable as it is white on grey and may be difficult to see by some viewers. 
 
-![Project Cover Page](https://dianefrola.github.io/diane-frola-cnu/images/tsacp-mainpage.png)
+![Cover Page](https://dianefrola.github.io/diane-frola-cnu/images/tsacp-coverpage.png)
 
 To look further into the site you need to click on the white box with three grey lines in the top right corner that will take you to a menu of the five main sections of the site. These main sections are: members, books, analysis, sources, and about. Each of these sections are then divided into further categories found under the main headings. The box to the menu is pretty noticeable once you have glanced around the site for a second but it could be difficult or passed over by some viewers. As this box is very important because it takes you to the majority of the project it may be helpful to make it stand out a bit more or have a caption pointing it out. 
 
